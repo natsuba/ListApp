@@ -1,0 +1,18 @@
+.add-remove {
+	color: #fff;
+	text-align: center;
+	width: 5rem;
+	height: 2rem;
+	background-color: #f15a29;
+	border-color: #f15a29;
+	border-style: none;
+	border-radius: 7px;
+	font-size: 14px;
+	margin: 21px auto;
+	margin-right: 21px auto;
+}
+
+.form-item {
+	padding: 30px;
+	font-family: sans-serif;
+}
